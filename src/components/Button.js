@@ -5,7 +5,7 @@ const styles = StyleSheet.create({
 	button: {
 		fontSize:30,
 		width: Dimensions.get('window').width/4,
-		height:  Dimensions.get('window').height/6,
+		height:  Dimensions.get('window').height/7,
 		padding: 20,
 		backgroundColor: '#f0f0f0',
 		textAlign: 'center',
